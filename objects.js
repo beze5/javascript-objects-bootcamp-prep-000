@@ -1,5 +1,4 @@
-var playlist = {snailMail: 'Thinning', arethaFranklin: 'Think'
-}
+var playlist = {}
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
